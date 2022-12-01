@@ -10,6 +10,11 @@ II.  We compress the entire image and then send (We will save energy by transmit
 
 III. We cancompress part of the image (based on entropy-based partitioning) and send partly compressed and party uncompressed(rawbits).
 
-first we divide the image into blocks and see which ones to compress.
-Design an optimal scheme using entropy-based image partitioning in order to minimize energy per bit.
-Also carryout simulations using realistic numbers for 𝐸𝑡(Say,forIEEE802.11x) and 𝐸𝑐(Say ,for the ARM processor)
+
+Steps:-
+
+*** First we divide the image into blocks and see which ones to compress.
+
+*** Design an optimal scheme using entropy-based image partitioning in order to minimize energy per bit.
+
+*** Also carryout simulations using realistic numbers for 𝐸𝑡(Say,forIEEE802.11x) and 𝐸𝑐(Say ,for the ARM processor).
